@@ -1,7 +1,3 @@
-Here's an elaborated version of your project description for a `README.md` file, written in a professional and developer-friendly style:
-
----
-
 #  Airbnb Clone Platform
 
 A full-stack web application inspired by Airbnb that allows users to create, view, and manage property listings with integrated geolocation, price filtering, and user authentication. Built using **Node.js**, **Express.js**, **MongoDB**, **EJS**, **Bootstrap**, **Passport.js**, and **Mapbox**, this application offers a seamless and responsive experience for both desktop and mobile users.
