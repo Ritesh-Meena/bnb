@@ -2,13 +2,13 @@ Here's an elaborated version of your project description for a `README.md` file,
 
 ---
 
-# 🏠 Airbnb Clone Platform
+#  Airbnb Clone Platform
 
 A full-stack web application inspired by Airbnb that allows users to create, view, and manage property listings with integrated geolocation, price filtering, and user authentication. Built using **Node.js**, **Express.js**, **MongoDB**, **EJS**, **Bootstrap**, **Passport.js**, and **Mapbox**, this application offers a seamless and responsive experience for both desktop and mobile users.
 
 ---
 
-## 🚀 Tech Stack
+##  Tech Stack
 
 * **Backend:** Node.js, Express.js
 * **Database:** MongoDB (with Mongoose ODM)
@@ -19,15 +19,15 @@ A full-stack web application inspired by Airbnb that allows users to create, vie
 
 ---
 
-## ✨ Features
+##  Features
 
-### 🔐 User Authentication
+###  User Authentication
 
 * Secure user registration and login using **Passport.js**
 * Passwords hashed and stored securely
 * Only authenticated users can create, edit, or delete listings
 
-### 🏡 Listings Management
+###  Listings Management
 
 * Full **CRUD** functionality for property listings:
 
@@ -36,31 +36,31 @@ A full-stack web application inspired by Airbnb that allows users to create, vie
   * **Update**: Edit existing property details (only by the listing owner)
   * **Delete**: Remove a listing
 
-### 🌍 Geolocation with Mapbox
+###  Geolocation with Mapbox
 
 * Properties displayed on an interactive **Mapbox** map
 * Users can view location pins for each listing
 * Auto-geocoding based on property address
 
-### 💬 Reviews System
+###  Reviews System
 
 * Users can leave reviews and ratings on property listings
 * Reviews are displayed in chronological order with author information
 * Listings display average ratings from user reviews
 
-### 📱 Responsive Design
+###  Responsive Design
 
 * Built with **Bootstrap** to ensure full responsiveness on mobile, tablet, and desktop
 * Clean and intuitive UI/UX for seamless navigation
 
-### 🔍 Filters & Search
+###  Filters & Search
 
 * Filter listings by **price range** and **location**
 * Search functionality to find specific listings quickly
 
 ---
 
-## 🛠 Installation & Setup
+##  Installation & Setup
 
 1. **Clone the repository**
 
@@ -95,13 +95,13 @@ A full-stack web application inspired by Airbnb that allows users to create, vie
 
 ---
 
-## 📚 License
+##  License
 
 This project is licensed under the MIT License.
 
 ---
 
-## 🙌 Acknowledgments
+##  Acknowledgments
 
 * [Mapbox](https://www.mapbox.com/)
 * [Bootstrap](https://getbootstrap.com/)
