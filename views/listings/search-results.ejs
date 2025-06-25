@@ -1,0 +1,17 @@
+<% layout("layouts/boilerplate")%>
+<h1>Search Results</h1>
+
+<% if (listings.length > 0) { %>
+    <div class="listings">
+        <% listings.forEach(listing => { %>
+            <div class="listing-item">
+                <h3><%= listing.title %></h3>
+                <p><%= listing.description %></p>
+                <p><%= listing.location %>, <%= listing.country %></p>
+                <p>Price: $<%= listing.price %></p>
+            </div>
+        <% }) %>
+    </div>
+<% } else { %>
+    <p>No listings found matching your search.</p>
+<% } %>
